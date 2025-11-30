@@ -4,7 +4,7 @@ Date: 2025-11-30
 
 ## Project GitHub
 
-Repository / project board: https://github.com/users/4qhyqyhktr-sudo/projects/1/views/1
+
 
 **Executive Summary (100-150 words)**
 
