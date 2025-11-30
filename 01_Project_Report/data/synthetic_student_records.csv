@@ -1,0 +1,41 @@
+StudentID,School,Vaccinated,URTIAbsenceDays
+HV001,HarborView Primary,1,0
+HV002,HarborView Primary,1,1
+HV003,HarborView Primary,1,0
+HV004,HarborView Primary,0,2
+HV005,HarborView Primary,1,0
+HV006,HarborView Primary,0,3
+HV007,HarborView Primary,1,0
+HV008,HarborView Primary,1,0
+EB001,Emerald Bay Primary,1,0
+EB002,Emerald Bay Primary,0,2
+EB003,Emerald Bay Primary,1,1
+EB004,Emerald Bay Primary,1,0
+EB005,Emerald Bay Primary,0,4
+EB006,Emerald Bay Primary,1,0
+EB007,Emerald Bay Primary,1,0
+EB008,Emerald Bay Primary,0,1
+MT001,Midtown Primary,1,0
+MT002,Midtown Primary,0,3
+MT003,Midtown Primary,0,2
+MT004,Midtown Primary,1,0
+MT005,Midtown Primary,1,1
+MT006,Midtown Primary,0,2
+MT007,Midtown Primary,1,0
+MT008,Midtown Primary,1,0
+RB001,Riverbend Primary,0,3
+RB002,Riverbend Primary,1,0
+RB003,Riverbend Primary,0,2
+RB004,Riverbend Primary,1,1
+RB005,Riverbend Primary,1,0
+RB006,Riverbend Primary,0,4
+NR001,North Ridge Primary,0,2
+NR002,North Ridge Primary,1,0
+NR003,North Ridge Primary,0,3
+NR004,North Ridge Primary,1,0
+NR005,North Ridge Primary,0,2
+CP001,Central Peak Primary,0,4
+CP002,Central Peak Primary,1,1
+CP003,Central Peak Primary,0,3
+CP004,Central Peak Primary,1,0
+

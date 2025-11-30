@@ -1,0 +1,4 @@
+OLS Regression: URTIAbsencePct ~ VaccinationRatePct + PromotionEffortScore
+beta0 (intercept): 7.252
+beta_vaccination: -0.043
+beta_promotion: -0.232
